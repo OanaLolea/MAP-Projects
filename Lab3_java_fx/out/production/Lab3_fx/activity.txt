@@ -1,0 +1,5 @@
+31|lab|analysis
+32|course|map
+33|seminar|databases
+34|course|analysis
+35|course|vr
