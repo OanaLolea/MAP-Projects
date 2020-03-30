@@ -1,0 +1,11 @@
+D:\CSharp\Diabetes\bin\Debug\netcoreapp3.0\Diabetes.exe
+D:\CSharp\Diabetes\bin\Debug\netcoreapp3.0\Diabetes.deps.json
+D:\CSharp\Diabetes\bin\Debug\netcoreapp3.0\Diabetes.runtimeconfig.json
+D:\CSharp\Diabetes\bin\Debug\netcoreapp3.0\Diabetes.runtimeconfig.dev.json
+D:\CSharp\Diabetes\bin\Debug\netcoreapp3.0\Diabetes.dll
+D:\CSharp\Diabetes\bin\Debug\netcoreapp3.0\Diabetes.pdb
+D:\CSharp\Diabetes\obj\Debug\netcoreapp3.0\Diabetes.csprojAssemblyReference.cache
+D:\CSharp\Diabetes\obj\Debug\netcoreapp3.0\Diabetes.AssemblyInfoInputs.cache
+D:\CSharp\Diabetes\obj\Debug\netcoreapp3.0\Diabetes.AssemblyInfo.cs
+D:\CSharp\Diabetes\obj\Debug\netcoreapp3.0\Diabetes.dll
+D:\CSharp\Diabetes\obj\Debug\netcoreapp3.0\Diabetes.pdb
